@@ -1,0 +1,31 @@
+GAME DESIGNING IDEAS
+-------------------------
+PC: Cannon
+NPC: Balls
+Mechanics: Touch/Mouse
+Goal: Destroy the ball until the value reaches 0
+*Adaptivity: Special Ball
+Rules: Cannon shouldnt be touched by the ball
+The ball should be detroyed before it stops bouncing
+Random Ball drop
+Random size
+Random Number
+
+Feedback: Sound when a ball blasts
+Sound when you die/Game over
+Sound when u clear the level
+Sound when bullets are being fired
+*Sound when special bullet is fired
+
+Keep all sounds,etc ready
+
+1. http://99sounds.org/free-sound-effects/ 
+2. http://soundbible.com/royalty-free-sounds-1.html 
+3. https://freesound.org/ 
+4. http://www.gameburp.com/free-game-sound-fx/
+
+
+
+
+
+
